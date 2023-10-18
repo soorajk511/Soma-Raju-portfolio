@@ -98,7 +98,7 @@ h2{
   font-size: 1rem;
   word-spacing: normal;
   letter-spacing: normal;
-  padding: 0px 0px 5px 0px ;
+  padding: 0px 0px 5px 0px;
   margin: 0px;
   font-weight: 150;
 }  
@@ -163,12 +163,12 @@ h2{
   .about{
   color: black;
   font-family: 'Noto Sans', sans-serif;
-  font-size: 1.2rem;
+  font-size: 1rem;
   padding: 0px 0px 5px 0px ;
   margin: 0px;
-  line-height: 1.8rem;
+  line-height: 1.6rem;
   word-spacing: normal;
-  font-weight: 400;
+  
   align-items: center;
   }
 
