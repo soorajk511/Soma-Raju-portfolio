@@ -218,11 +218,11 @@ li a{
 .footer-contact-links{
  flex: 1;
  /* align-self: center; */
-  padding: 40px; 
+  padding: 40px 20px 40px 40px; 
 }
 .footer-nav-div{
   /* align-self: center; */
-  padding: 40px; 
+  padding: 40px 20px 40px 40px; 
   flex: 1;
   color: grey;
 }  
