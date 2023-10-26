@@ -98,7 +98,7 @@ h2{
   font-size: 1rem;
   word-spacing: normal;
   letter-spacing: normal;
-  padding: 0px 0px 5px 0px;
+  padding: 0px 0px 5px 0px ;
   margin: 0px;
   font-weight: 150;
 }  
@@ -163,12 +163,12 @@ h2{
   .about{
   color: black;
   font-family: 'Noto Sans', sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
   padding: 0px 0px 5px 0px ;
   margin: 0px;
-  line-height: 1.6rem;
+  line-height: 1.8rem;
   word-spacing: normal;
-  
+  font-weight: 400;
   align-items: center;
   }
 
@@ -217,7 +217,7 @@ li a{
 }
 .footer-contact-links{
  flex: 1;
- padding: 30px;
+ padding: 50px;
 }
 .footer-nav-div{
   padding: 50px;
