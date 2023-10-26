@@ -217,11 +217,12 @@ li a{
 }
 .footer-contact-links{
  flex: 1;
- padding: 50px;
+ /* align-self: center; */
+  padding: 40px; 
 }
 .footer-nav-div{
-  padding: 50px;
-  
+  /* align-self: center; */
+  padding: 40px; 
   flex: 1;
   color: grey;
 }  
